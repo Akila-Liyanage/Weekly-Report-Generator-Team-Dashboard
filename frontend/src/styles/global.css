@@ -1805,7 +1805,7 @@ body.modal-open {
 
 .activity-button {
   width: 100%;
-  padding-left: 0;
+  padding-left: 26px;
   padding-right: 0;
   border: 0;
   background: transparent;
