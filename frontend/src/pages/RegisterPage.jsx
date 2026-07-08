@@ -48,7 +48,6 @@ export default function RegisterPage() {
             <Sparkles size={22} />
             <div>
               <strong>Clean and explainable</strong>
-              <span>No AI integration or hidden complexity.</span>
             </div>
           </div>
         </div>
